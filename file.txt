@@ -5,3 +5,6 @@ this is frist commit of feature1
 this is second commit of feature1
 
 this is frist commit of feature3
+this is second commit of feature3
+
+this is fist commit of feature4
