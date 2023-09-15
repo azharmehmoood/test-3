@@ -2,3 +2,4 @@ this is frist commit
 this is frist commit
 
 this is frist commit of feature2
+this is second commit of feature2
